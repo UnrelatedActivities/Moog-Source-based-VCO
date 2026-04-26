@@ -4,6 +4,7 @@ Each directory contains slightly different versions of the same circuit, with sa
 - Moog_Source_VCO_3046_V12: uses 2 LM329 for reference voltages (+-10V, +-7V)
 - Moog_Source_VCO_3046_V14: uses a single LM329 for reference voltages (+-10V)
 - Moog_Source_VCO_3046_+-12V: adapted for +-12V supply systems, uses a single LM329 for reference voltages (+-8V)
+  **this version was not tested.
 
 The zipped files inside each directory are archived Kicad project files, made with Kicad Version 7. 
 I have just installed Kicad on an old PC and this is the first time I am using it, so some things may require adjustments. 
